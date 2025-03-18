@@ -1,10 +1,6 @@
 ## Hi there 👋
 O meu nome é Diana, e sou estudante do terceiro ano de Engenharia
- Informática. Atualmente, estou a desenvolver uma aplicação web para sugestões
- de prendas, utilizando inteligência artificial para analisar as características de
- uma pessoa e fornecer recomendações personalizadas. Estou sempre à procura
- de oportunidades para melhorar as minhas competências e explorar novas
- soluções tecnológicas.
+ Informática. 
 <!--
 **DianaMCosta/DianaMCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
