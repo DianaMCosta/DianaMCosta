@@ -1,5 +1,5 @@
 ## Hi there 👋
-O meu nome é Diana, e sou estudante do terceiro ano de Engenharia
+O meu nome é Diana, e sou estudante do Primeiro ano do Mestrado Engenharia
  Informática. 
 <!--
 **DianaMCosta/DianaMCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
