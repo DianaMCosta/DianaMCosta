@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Diana, and I am a student of the first year of the Master's degree in Computer Engineering.
+My name is Diana, and I am a student of the first year of the Master's degree in Computer Engineering at University of Trás-os-Montes and Alto Douro.
 <!--
 **DianaMCosta/DianaMCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
